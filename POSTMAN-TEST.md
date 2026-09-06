@@ -555,7 +555,7 @@ Status: 201 Created  |  Time: 120ms  |  Size: 1.2 KB
 
 ## 🔵 API 3: নতুন User রেজিস্ট্রেশন (Member)
 
-###完全Steps:
+### Steps:
 
 1. Method = `POST` সিলেক্ট করুন
 2. URL = `http://localhost:5000/api/v1/auth/register`
